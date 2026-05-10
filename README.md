@@ -1,6 +1,13 @@
 # student_assistant_app
 
+/**
+ * Student Numbers: [TO BE FILLED BY GROUP MEMBERS]
+ * Student Names  : [TO BE FILLED BY GROUP MEMBERS]
+ * Question: Authentication ViewModel
+ */
+
 A new Flutter project.
+
 
 ## Getting Started
 

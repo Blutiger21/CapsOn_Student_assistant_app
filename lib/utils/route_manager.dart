@@ -1,8 +1,7 @@
-/**
- * Student Numbers: [TO BE FILLED BY GROUP MEMBERS]
- * Student Names  : [TO BE FILLED BY GROUP MEMBERS]
- * Question: Route Manager - Centralized Navigation
- */
+/// Student Numbers: [TO BE FILLED BY GROUP MEMBERS]
+/// Student Names  : [TO BE FILLED BY GROUP MEMBERS]
+/// Question: Route Manager - Centralized Navigation
+library;
 
 import 'package:flutter/material.dart';
 import '../../views/auth/login_view.dart';

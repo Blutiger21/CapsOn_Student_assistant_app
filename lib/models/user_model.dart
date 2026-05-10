@@ -1,8 +1,7 @@
-/**
- * Student Numbers: [TO BE FILLED BY GROUP MEMBERS]
- * Student Names  : [TO BE FILLED BY GROUP MEMBERS]
- * Question: User Model
- */
+/// Student Numbers: [TO BE FILLED BY GROUP MEMBERS]
+/// Student Names  : [TO BE FILLED BY GROUP MEMBERS]
+/// Question: User Model
+library;
 
 class UserModel {
   final String id;

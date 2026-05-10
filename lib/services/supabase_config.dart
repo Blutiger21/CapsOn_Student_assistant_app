@@ -1,8 +1,7 @@
-/**
- * Student Numbers: [TO BE FILLED BY GROUP MEMBERS]
- * Student Names  : [TO BE FILLED BY GROUP MEMBERS]
- * Question: Supabase Service - Backend Configuration
- */
+/// Student Numbers: [TO BE FILLED BY GROUP MEMBERS]
+/// Student Names  : [TO BE FILLED BY GROUP MEMBERS]
+/// Question: Supabase Service - Backend Configuration
+library;
 
 import 'package:supabase_flutter/supabase_flutter.dart';
 

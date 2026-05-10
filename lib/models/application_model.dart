@@ -1,8 +1,7 @@
-/**
- * Student Numbers: [TO BE FILLED BY GROUP MEMBERS]
- * Student Names  : [TO BE FILLED BY GROUP MEMBERS]
- * Question: Application Model
- */
+/// Student Numbers: [TO BE FILLED BY GROUP MEMBERS]
+/// Student Names  : [TO BE FILLED BY GROUP MEMBERS]
+/// Question: Application Model
+library;
 
 class ApplicationModel {
   final String? id;
