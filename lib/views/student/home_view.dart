@@ -1,6 +1,6 @@
 /**
- * Student Numbers: 
- * Student Names  : 
+ * Student Numbers: 223007530; 223038085; 223005893; 223051025 ; 223040545; 221034577; 222033434; 223020021; 224020157
+ * Student Names  :A Jara; BF Motseki; TV Thabisi; LD MoKheti;FB Amatebelle;ML Mwenda; KD Tsolo;B Mbinga ;KP Molelekeng
  * Question: Student Home Screen (Read Operation)
  */
 
