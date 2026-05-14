@@ -1,8 +1,15 @@
 /**
- * Student Numbers: 223007530; 223038085; 223005893; 223051025 ; 223040545; 221034577; 222033434; 223020021; 224020157
- * Student Names  :A Jara; BF Motseki; TV Thabisi; LD MoKheti;FB Amatebelle;ML Mwenda; KD Tsolo;B Mbinga ;KP Molelekeng
- * Question: Application Detail Screen (Read / Delete Operation)
+ *223038085 BF MOTSEKI
+ *223040545 FB AMATEBELLE
+ *223051025 LD MOKHETI
+ *223007530 A JARA
+ *223020021 B MBINGA
+ * 221034577 ML MWENDA
+ *222033434 KD TSOLO
+ *224020157 KP MOLELEKENG
+ *223005893 TV THABISI
  */
+///Question: Application Detail View - Displaying Application Information and Management Actions
 
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
